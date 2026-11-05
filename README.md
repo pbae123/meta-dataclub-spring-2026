@@ -51,6 +51,16 @@ streamlit run app.py
 
 `git lfs pull` is required: the model file is stored in Git LFS and must be downloaded before the app will run.
 
+## Contributors
+
+- Peter Bae ([@pbae123](https://github.com/pbae123))
+- Chau Ta [@cht-au](https://github.com/cht-au)
+- Max Peng [@MaxPengCode](https://github.com/MaxPengCode)
+- Vedant Dashore ([@vedantdashore](https://github.com/vedantdashore))
+- Lindsay and Juan (data labeling subgroup)
+
+This repository is a cleaned snapshot for public release; development history lives in the original team repository.
+
 ## License
 
 Code in this repository is licensed under the MIT License (see `LICENSE`).
