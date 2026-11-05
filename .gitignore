@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data files — keep private, do not commit
+*.txt
+*.jsonl
+*.pdf
+data/
+
+# Utility/processing scripts
+combine.py
+convert_peter.py
