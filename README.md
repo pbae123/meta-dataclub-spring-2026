@@ -54,8 +54,8 @@ streamlit run app.py
 ## Contributors
 
 - Peter Bae ([@pbae123](https://github.com/pbae123))
-- Chau Ta [@cht-au](https://github.com/cht-au)
-- Max Peng [@MaxPengCode](https://github.com/MaxPengCode)
+- Chau Ta ([@cht-au](https://github.com/cht-au))
+- Max Peng ([@MaxPengCode](https://github.com/MaxPengCode))
 - Vedant Dashore ([@vedantdashore](https://github.com/vedantdashore))
 - Lindsay and Juan (data labeling subgroup)
 
